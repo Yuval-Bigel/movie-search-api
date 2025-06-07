@@ -1,0 +1,2696 @@
+[
+  {
+    "id": "tt0111161",
+    "title": "The Shawshank Redemption",
+    "creationYear": 1994,
+    "runtimeMinutes": 142,
+    "synopsis": "Two imprisoned men bond over years, finding solace and eventual redemption through acts of common decency.",
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "director": [
+      "Frank Darabont"
+    ],
+    "imdbRating": 9.3,
+    "genre": "Drama",
+    "createdAt": "1994-09-23",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 91,
+    "metascore": 80,
+    "budget": 25000000,
+    "revenue": 28341469,
+    "profitMargin": 0.13,
+    "awardWins": 21,
+    "awardNominations": 14,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "releaseDate": "2021-11-23",
+    "subgenres": [
+      "Crime",
+      "Prison"
+    ]
+  },
+  {
+    "id": "tt0068646",
+    "title": "The Godfather",
+    "creationYear": 1972,
+    "runtimeMinutes": 175,
+    "synopsis": "The aging patriarch of an organized-crime dynasty transfers control of his empire to his reluctant son.",
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "director": [
+      "Francis Ford Coppola"
+    ],
+    "imdbRating": 9.2,
+    "genre": "Crime",
+    "createdAt": "1972-03-24",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 98,
+    "metascore": 100,
+    "budget": 6000000,
+    "revenue": 245066411,
+    "profitMargin": 39.84,
+    "awardWins": 32,
+    "awardNominations": 29,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "releaseDate": "2020-05-01",
+    "subgenres": [
+      "Drama",
+      "Mafia"
+    ]
+  },
+  {
+    "id": "tt0468569",
+    "title": "The Dark Knight",
+    "creationYear": 2008,
+    "runtimeMinutes": 152,
+    "synopsis": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos.",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "imdbRating": 9,
+    "genre": "Action",
+    "createdAt": "2008-07-18",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 94,
+    "metascore": 84,
+    "budget": 185000000,
+    "revenue": 1004934033,
+    "profitMargin": 4.43,
+    "awardWins": 159,
+    "awardNominations": 163,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "releaseDate": "2012-02-22",
+    "subgenres": [
+      "Crime",
+      "Drama",
+      "Superhero"
+    ]
+  },
+  {
+    "id": "tt0071562",
+    "title": "The Godfather: Part II",
+    "creationYear": 1974,
+    "runtimeMinutes": 202,
+    "synopsis": "The early life of Vito Corleone intercuts with his son Michael expanding the family empire.",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Robert Duvall"
+    ],
+    "director": [
+      "Francis Ford Coppola"
+    ],
+    "imdbRating": 9,
+    "genre": "Crime",
+    "createdAt": "1974-12-20",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 97,
+    "metascore": 90,
+    "budget": 13000000,
+    "revenue": 57300000,
+    "profitMargin": 3.41,
+    "awardWins": 17,
+    "awardNominations": 20,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "releaseDate": "2023-03-13",
+    "subgenres": [
+      "Drama",
+      "Mafia"
+    ]
+  },
+  {
+    "id": "tt0108052",
+    "title": "Schindler's List",
+    "creationYear": 1993,
+    "runtimeMinutes": 195,
+    "synopsis": "Oskar Schindler saves the lives of more than a thousand Jewish refugees during the Holocaust.",
+    "cast": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "imdbRating": 9,
+    "genre": "Biography",
+    "createdAt": "1993-12-15",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Black and White",
+    "rtScore": 98,
+    "metascore": 94,
+    "budget": 22000000,
+    "revenue": 322100000,
+    "profitMargin": 13.64,
+    "awardWins": 87,
+    "awardNominations": 42,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2023-02-09",
+    "subgenres": [
+      "Drama",
+      "History",
+      "Holocaust"
+    ]
+  },
+  {
+    "id": "tt0167260",
+    "title": "The Lord of the Rings: The Return of the King",
+    "creationYear": 2003,
+    "runtimeMinutes": 201,
+    "synopsis": "The final confrontation for Middle-earth as Frodo nears Mount Doom.",
+    "cast": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "director": [
+      "Peter Jackson"
+    ],
+    "imdbRating": 9,
+    "genre": "Adventure",
+    "createdAt": "2003-12-17",
+    "language": "English",
+    "country": "New Zealand",
+    "colorMode": "Color",
+    "rtScore": 93,
+    "metascore": 94,
+    "budget": 94000000,
+    "revenue": 1146030912,
+    "profitMargin": 11.19,
+    "awardWins": 209,
+    "awardNominations": 116,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "releaseDate": "2018-09-24",
+    "subgenres": [
+      "Drama",
+      "Fantasy",
+      "Epic Fantasy"
+    ]
+  },
+  {
+    "id": "tt0110912",
+    "title": "Pulp Fiction",
+    "creationYear": 1994,
+    "runtimeMinutes": 154,
+    "synopsis": "Interlocking stories of crime and redemption unfold in Los Angeles.",
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "director": [
+      "Quentin Tarantino"
+    ],
+    "imdbRating": 8.9,
+    "genre": "Crime",
+    "createdAt": "1994-10-14",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 92,
+    "metascore": 94,
+    "budget": 8000000,
+    "revenue": 213928762,
+    "profitMargin": 25.74,
+    "awardWins": 70,
+    "awardNominations": 77,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "releaseDate": "2021-12-16",
+    "subgenres": [
+      "Drama",
+      "Neo-noir"
+    ]
+  },
+  {
+    "id": "tt1375666",
+    "title": "Inception",
+    "creationYear": 2010,
+    "runtimeMinutes": 148,
+    "synopsis": "A thief enters people's dreams to steal secrets and plant ideas.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "imdbRating": 8.8,
+    "genre": "Action",
+    "createdAt": "2010-07-16",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 87,
+    "metascore": 74,
+    "budget": 160000000,
+    "revenue": 836836967,
+    "profitMargin": 4.23,
+    "awardWins": 157,
+    "awardNominations": 220,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "releaseDate": "2017-11-09",
+    "subgenres": [
+      "Sci-Fi",
+      "Thriller",
+      "Psychological Thriller"
+    ]
+  },
+  {
+    "id": "tt0137523",
+    "title": "Fight Club",
+    "creationYear": 1999,
+    "runtimeMinutes": 139,
+    "synopsis": "An office worker and a soap salesman start an underground fight club that evolves into something more.",
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "director": [
+      "David Fincher"
+    ],
+    "imdbRating": 8.8,
+    "genre": "Drama",
+    "createdAt": "1999-10-15",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 79,
+    "metascore": 66,
+    "budget": 63000000,
+    "revenue": 101200000,
+    "profitMargin": 0.61,
+    "awardWins": 11,
+    "awardNominations": 23,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "releaseDate": "2022-03-11",
+    "subgenres": [
+      "Psychological Thriller"
+    ]
+  },
+  {
+    "id": "tt0120737",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "creationYear": 2001,
+    "runtimeMinutes": 178,
+    "synopsis": "A humble hobbit sets out on a quest to destroy a powerful ring.",
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Orlando Bloom"
+    ],
+    "director": [
+      "Peter Jackson"
+    ],
+    "imdbRating": 8.8,
+    "genre": "Adventure",
+    "createdAt": "2001-12-19",
+    "language": "English",
+    "country": "New Zealand",
+    "colorMode": "Color",
+    "rtScore": 91,
+    "metascore": 92,
+    "budget": 93000000,
+    "revenue": 871530324,
+    "profitMargin": 8.37,
+    "awardWins": 121,
+    "awardNominations": 126,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+    "releaseDate": "2015-06-10",
+    "subgenres": [
+      "Drama",
+      "Fantasy",
+      "Epic Fantasy"
+    ]
+  },
+  {
+    "id": "tt0109830",
+    "title": "Forrest Gump",
+    "creationYear": 1994,
+    "runtimeMinutes": 142,
+    "synopsis": "Forrest Gump influences historical events while pursuing his childhood love.",
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "director": [
+      "Robert Zemeckis"
+    ],
+    "imdbRating": 8.8,
+    "genre": "Drama",
+    "createdAt": "1994-07-06",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 71,
+    "metascore": 82,
+    "budget": 55000000,
+    "revenue": 677387716,
+    "profitMargin": 11.32,
+    "awardWins": 48,
+    "awardNominations": 75,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "releaseDate": "2016-01-06",
+    "subgenres": [
+      "Romance",
+      "Comedy-Drama"
+    ]
+  },
+  {
+    "id": "tt0167261",
+    "title": "The Lord of the Rings: The Two Towers",
+    "creationYear": 2002,
+    "runtimeMinutes": 179,
+    "synopsis": "The Fellowship is broken but continues the war against Sauron.",
+    "cast": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "director": [
+      "Peter Jackson"
+    ],
+    "imdbRating": 8.8,
+    "genre": "Adventure",
+    "createdAt": "2002-12-18",
+    "language": "English",
+    "country": "New Zealand",
+    "colorMode": "Color",
+    "rtScore": 95,
+    "metascore": 87,
+    "budget": 94000000,
+    "revenue": 926287400,
+    "profitMargin": 8.85,
+    "awardWins": 114,
+    "awardNominations": 116,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2016-05-24",
+    "subgenres": [
+      "Drama",
+      "Fantasy",
+      "Epic Fantasy"
+    ]
+  },
+  {
+    "id": "tt0080684",
+    "title": "Star Wars: Episode V – The Empire Strikes Back",
+    "creationYear": 1980,
+    "runtimeMinutes": 124,
+    "synopsis": "The Rebels suffer setbacks while Luke trains with Jedi Master Yoda.",
+    "cast": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Carrie Fisher"
+    ],
+    "director": [
+      "Irvin Kershner"
+    ],
+    "imdbRating": 8.7,
+    "genre": "Action",
+    "createdAt": "1980-06-20",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 94,
+    "metascore": 82,
+    "budget": 18000000,
+    "revenue": 538375067,
+    "profitMargin": 28.91,
+    "awardWins": 25,
+    "awardNominations": 20,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "releaseDate": "2013-09-15",
+    "subgenres": [
+      "Adventure",
+      "Fantasy",
+      "Space Opera"
+    ]
+  },
+  {
+    "id": "tt0133093",
+    "title": "The Matrix",
+    "creationYear": 1999,
+    "runtimeMinutes": 136,
+    "synopsis": "A hacker learns the world is a simulation and joins a rebellion.",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "director": [
+      "Lana Wachowski",
+      "Lilly Wachowski"
+    ],
+    "imdbRating": 8.7,
+    "genre": "Action",
+    "createdAt": "1999-03-31",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 88,
+    "metascore": 73,
+    "budget": 63000000,
+    "revenue": 463517383,
+    "profitMargin": 6.36,
+    "awardWins": 42,
+    "awardNominations": 51,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2020-05-14",
+    "subgenres": [
+      "Sci-Fi",
+      "Cyberpunk"
+    ]
+  },
+  {
+    "id": "tt0099685",
+    "title": "Goodfellas",
+    "creationYear": 1990,
+    "runtimeMinutes": 146,
+    "synopsis": "The rise and fall of mob associate Henry Hill and his friends.",
+    "cast": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "imdbRating": 8.7,
+    "genre": "Biography",
+    "createdAt": "1990-09-21",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 96,
+    "metascore": 90,
+    "budget": 25000000,
+    "revenue": 46836214,
+    "profitMargin": 0.87,
+    "awardWins": 39,
+    "awardNominations": 38,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNjI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "releaseDate": "2023-10-09",
+    "subgenres": [
+      "Crime",
+      "Drama",
+      "Gangster"
+    ]
+  },
+  {
+    "id": "tt0073486",
+    "title": "One Flew Over the Cuckoo's Nest",
+    "creationYear": 1975,
+    "runtimeMinutes": 133,
+    "synopsis": "A criminal pleads insanity and rebels against a mental institution.",
+    "cast": [
+      "Jack Nicholson",
+      "Louise Fletcher",
+      "Will Sampson"
+    ],
+    "director": [
+      "Milos Forman"
+    ],
+    "imdbRating": 8.7,
+    "genre": "Drama",
+    "createdAt": "1975-11-19",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 94,
+    "metascore": 83,
+    "budget": 3000000,
+    "revenue": 108981275,
+    "profitMargin": 35.33,
+    "awardWins": 38,
+    "awardNominations": 16,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "releaseDate": "2020-03-23",
+    "subgenres": [
+      "Psychological Drama"
+    ]
+  },
+  {
+    "id": "tt0317248",
+    "title": "City of God",
+    "creationYear": 2002,
+    "runtimeMinutes": 130,
+    "synopsis": "Two boys grow up in a violent neighborhood of Rio de Janeiro and take different paths.",
+    "cast": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Phellipe Haagensen"
+    ],
+    "director": [
+      "Fernando Meirelles",
+      "Kátia Lund"
+    ],
+    "imdbRating": 8.6,
+    "genre": "Crime",
+    "createdAt": "2003-01-31",
+    "language": "Portuguese",
+    "country": "Brazil",
+    "colorMode": "Color",
+    "rtScore": 91,
+    "metascore": 79,
+    "budget": 3300000,
+    "revenue": 30680793,
+    "profitMargin": 8.3,
+    "awardWins": 65,
+    "awardNominations": 36,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "releaseDate": "2022-02-23",
+    "subgenres": [
+      "Drama",
+      "Urban Drama"
+    ]
+  },
+  {
+    "id": "tt0102926",
+    "title": "The Silence of the Lambs",
+    "creationYear": 1991,
+    "runtimeMinutes": 118,
+    "synopsis": "A young FBI cadet must confide in an incarcerated killer to catch another.",
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Scott Glenn"
+    ],
+    "director": [
+      "Jonathan Demme"
+    ],
+    "imdbRating": 8.6,
+    "genre": "Horror",
+    "createdAt": "1991-02-14",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 96,
+    "metascore": 85,
+    "budget": 19000000,
+    "revenue": 272742922,
+    "profitMargin": 13.35,
+    "awardWins": 67,
+    "awardNominations": 50,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2017-06-20",
+    "subgenres": [
+      "Drama",
+      "Thriller",
+      "Psychological Thriller"
+    ]
+  },
+  {
+    "id": "tt0114369",
+    "title": "Se7en",
+    "creationYear": 1995,
+    "runtimeMinutes": 127,
+    "synopsis": "Two detectives track a serial killer who uses the seven deadly sins as motives.",
+    "cast": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Kevin Spacey"
+    ],
+    "director": [
+      "David Fincher"
+    ],
+    "imdbRating": 8.6,
+    "genre": "Crime",
+    "createdAt": "1995-09-22",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 82,
+    "metascore": 65,
+    "budget": 33000000,
+    "revenue": 327311859,
+    "profitMargin": 8.92,
+    "awardWins": 16,
+    "awardNominations": 24,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2021-05-18",
+    "subgenres": [
+      "Drama",
+      "Mystery",
+      "Neo-noir"
+    ]
+  },
+  {
+    "id": "tt0180093",
+    "title": "Requiem for a Dream",
+    "creationYear": 2000,
+    "runtimeMinutes": 102,
+    "synopsis": "Four people pursue their visions of happiness through drugs—spiraling into addiction.",
+    "cast": [
+      "Ellen Burstyn",
+      "Jared Leto",
+      "Jennifer Connelly"
+    ],
+    "director": [
+      "Darren Aronofsky"
+    ],
+    "imdbRating": 8.3,
+    "genre": "Drama",
+    "createdAt": "2000-10-27",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 78,
+    "metascore": 68,
+    "budget": 4500000,
+    "revenue": 7390108,
+    "profitMargin": 0.64,
+    "awardWins": 37,
+    "awardNominations": 69,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2013-06-01",
+    "subgenres": [
+      "Psychological Drama"
+    ]
+  },
+  {
+    "id": "tt0120815",
+    "title": "Saving Private Ryan",
+    "creationYear": 1998,
+    "runtimeMinutes": 169,
+    "synopsis": "U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed.",
+    "cast": [
+      "Tom Hanks",
+      "Matt Damon",
+      "Tom Sizemore"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "imdbRating": 8.6,
+    "genre": "Drama",
+    "createdAt": "1998-07-24",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 93,
+    "metascore": 91,
+    "budget": 70000000,
+    "revenue": 481840909,
+    "profitMargin": 5.88,
+    "awardWins": 79,
+    "awardNominations": 74,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
+    "releaseDate": "2012-12-01",
+    "subgenres": [
+      "War",
+      "Historical Drama"
+    ]
+  },
+  {
+    "id": "tt0118799",
+    "title": "Life Is Beautiful",
+    "creationYear": 1997,
+    "runtimeMinutes": 116,
+    "synopsis": "A father uses humor to shield his son from the horrors of WWII.",
+    "cast": [
+      "Roberto Benigni",
+      "Nicoletta Braschi",
+      "Giorgio Cantarini"
+    ],
+    "director": [
+      "Roberto Benigni"
+    ],
+    "imdbRating": 8.6,
+    "genre": "Comedy",
+    "createdAt": "1997-12-20",
+    "language": "Italian",
+    "country": "Italy",
+    "colorMode": "Color",
+    "rtScore": 80,
+    "metascore": 59,
+    "budget": 20000000,
+    "revenue": 230098753,
+    "profitMargin": 10.5,
+    "awardWins": 74,
+    "awardNominations": 49,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "releaseDate": "2023-10-17",
+    "subgenres": [
+      "Drama",
+      "Romance",
+      "Tragicomedy"
+    ]
+  },
+  {
+    "id": "tt0103064",
+    "title": "Terminator 2: Judgment Day",
+    "creationYear": 1991,
+    "runtimeMinutes": 137,
+    "synopsis": "A cyborg, identical to the one who failed to kill Sarah Connor, must protect her son.",
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong"
+    ],
+    "director": [
+      "James Cameron"
+    ],
+    "imdbRating": 8.6,
+    "genre": "Action",
+    "createdAt": "1991-07-03",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 93,
+    "metascore": 75,
+    "budget": 102000000,
+    "revenue": 520000000,
+    "profitMargin": 4.1,
+    "awardWins": 32,
+    "awardNominations": 33,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2021-12-16",
+    "subgenres": [
+      "Sci-Fi",
+      "Sci-Fi Action"
+    ]
+  },
+  {
+    "id": "tt1375666a",
+    "title": "Interstellar",
+    "creationYear": 2014,
+    "runtimeMinutes": 169,
+    "synopsis": "A team travels through a wormhole in search of a new home for humanity.",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "imdbRating": 8.6,
+    "genre": "Adventure",
+    "createdAt": "2014-11-07",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 72,
+    "metascore": 74,
+    "budget": 165000000,
+    "revenue": 701729206,
+    "profitMargin": 3.25,
+    "awardWins": 44,
+    "awardNominations": 143,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "releaseDate": "2021-10-23",
+    "subgenres": [
+      "Drama",
+      "Sci-Fi",
+      "Space Drama"
+    ]
+  },
+  {
+    "id": "tt0082971",
+    "title": "Raiders of the Lost Ark",
+    "creationYear": 1981,
+    "runtimeMinutes": 115,
+    "synopsis": "Archaeologist Indiana Jones races to find the Ark of the Covenant.",
+    "cast": [
+      "Harrison Ford",
+      "Karen Allen",
+      "Paul Freeman"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "imdbRating": 8.4,
+    "genre": "Action",
+    "createdAt": "1981-06-12",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 95,
+    "metascore": 85,
+    "budget": 18000000,
+    "revenue": 389925971,
+    "profitMargin": 20.66,
+    "awardWins": 38,
+    "awardNominations": 24,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_.jpg",
+    "releaseDate": "2020-11-20",
+    "subgenres": [
+      "Adventure"
+    ]
+  },
+  {
+    "id": "tt0110413",
+    "title": "Léon: The Professional",
+    "creationYear": 1994,
+    "runtimeMinutes": 110,
+    "synopsis": "A professional assassin shelters a young girl whose family was murdered.",
+    "cast": [
+      "Jean Reno",
+      "Natalie Portman",
+      "Gary Oldman"
+    ],
+    "director": [
+      "Luc Besson"
+    ],
+    "imdbRating": 8.5,
+    "genre": "Action",
+    "createdAt": "1994-11-18",
+    "language": "English",
+    "country": "France",
+    "colorMode": "Color",
+    "rtScore": 73,
+    "metascore": 64,
+    "budget": 16000000,
+    "revenue": 46100000,
+    "profitMargin": 1.88,
+    "awardWins": 7,
+    "awardNominations": 10,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg",
+    "releaseDate": "2019-06-05",
+    "subgenres": [
+      "Crime",
+      "Drama",
+      "Crime Thriller"
+    ]
+  },
+  {
+    "id": "tt0120689",
+    "title": "The Green Mile",
+    "creationYear": 1999,
+    "runtimeMinutes": 189,
+    "synopsis": "Guards on Death Row experience supernatural events after a gentle giant arrives.",
+    "cast": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "director": [
+      "Frank Darabont"
+    ],
+    "imdbRating": 8.6,
+    "genre": "Crime",
+    "createdAt": "1999-12-10",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 78,
+    "metascore": 61,
+    "budget": 60000000,
+    "revenue": 286801374,
+    "profitMargin": 3.78,
+    "awardWins": 15,
+    "awardNominations": 36,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+    "releaseDate": "2021-02-01",
+    "subgenres": [
+      "Drama",
+      "Fantasy",
+      "Supernatural Drama"
+    ]
+  },
+  {
+    "id": "tt0317248b",
+    "title": "Spirited Away",
+    "creationYear": 2001,
+    "runtimeMinutes": 125,
+    "synopsis": "A young girl enters a world of spirits to save her parents.",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki"
+    ],
+    "director": [
+      "Hayao Miyazaki"
+    ],
+    "imdbRating": 8.6,
+    "genre": "Animation",
+    "country": "Japan",
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "subgenres": [
+      "Adventure",
+      "Family"
+    ]
+  },
+  {
+    "id": "tt1187043",
+    "title": "3 Idiots",
+    "creationYear": 2009,
+    "runtimeMinutes": 170,
+    "synopsis": "Two friends search for their missing college buddy who inspired them to think differently.",
+    "cast": [
+      "Aamir Khan",
+      "R. Madhavan",
+      "Sharman Joshi"
+    ],
+    "director": [
+      "Rajkumar Hirani"
+    ],
+    "imdbRating": 8.4,
+    "genre": "Comedy",
+    "createdAt": "2009-12-25",
+    "language": "Hindi",
+    "country": "India",
+    "colorMode": "Color",
+    "rtScore": 100,
+    "metascore": 67,
+    "budget": 6700000,
+    "revenue": 90000000,
+    "profitMargin": 12.43,
+    "awardWins": 35,
+    "awardNominations": 19,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2012-11-22",
+    "subgenres": [
+      "Drama",
+      "Coming-of-age"
+    ]
+  },
+  {
+    "id": "tt0114814",
+    "title": "The Usual Suspects",
+    "creationYear": 1995,
+    "runtimeMinutes": 106,
+    "synopsis": "A sole survivor recounts the twists leading up to a deadly boat explosion.",
+    "cast": [
+      "Kevin Spacey",
+      "Gabriel Byrne",
+      "Benicio Del Toro"
+    ],
+    "director": [
+      "Bryan Singer"
+    ],
+    "imdbRating": 8.5,
+    "genre": "Crime",
+    "createdAt": "1995-09-15",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 89,
+    "metascore": 77,
+    "budget": 6000000,
+    "revenue": 23341568,
+    "profitMargin": 2.89,
+    "awardWins": 36,
+    "awardNominations": 15,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2014-07-16",
+    "subgenres": [
+      "Mystery",
+      "Thriller",
+      "Mystery Thriller"
+    ]
+  },
+  {
+    "id": "tt0120586",
+    "title": "American History X",
+    "creationYear": 1998,
+    "runtimeMinutes": 119,
+    "synopsis": "A reformed neo-Nazi tries to prevent his younger brother from taking the same path.",
+    "cast": [
+      "Edward Norton",
+      "Edward Furlong",
+      "Beverly D'Angelo"
+    ],
+    "director": [
+      "Tony Kaye"
+    ],
+    "imdbRating": 8.5,
+    "genre": "Drama",
+    "createdAt": "1998-11-20",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 83,
+    "metascore": 62,
+    "budget": 10000000,
+    "revenue": 23875127,
+    "profitMargin": 1.39,
+    "awardWins": 7,
+    "awardNominations": 15,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "releaseDate": "2012-02-08",
+    "subgenres": [
+      "Social Drama"
+    ]
+  },
+  {
+    "id": "tt0107034",
+    "title": "Groundhog Day",
+    "creationYear": 1993,
+    "runtimeMinutes": 101,
+    "synopsis": "A cynical weatherman relives the same day over and over again.",
+    "cast": [
+      "Bill Murray",
+      "Andie MacDowell",
+      "Chris Elliott"
+    ],
+    "director": [
+      "Harold Ramis"
+    ],
+    "imdbRating": 8.1,
+    "genre": "Comedy",
+    "createdAt": "1993-02-12",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 96,
+    "metascore": 72,
+    "budget": 14600000,
+    "revenue": 105000000,
+    "profitMargin": 6.19,
+    "awardWins": 8,
+    "awardNominations": 17,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2018-10-11",
+    "subgenres": [
+      "Fantasy",
+      "Romance",
+      "Fantasy Comedy"
+    ]
+  },
+  {
+    "id": "tt0172495",
+    "title": "Gladiator",
+    "creationYear": 2000,
+    "runtimeMinutes": 155,
+    "synopsis": "A betrayed Roman general seeks vengeance against a corrupt emperor.",
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "director": [
+      "Ridley Scott"
+    ],
+    "imdbRating": 8.5,
+    "genre": "Action",
+    "createdAt": "2000-05-05",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 77,
+    "metascore": 67,
+    "budget": 103000000,
+    "revenue": 460500000,
+    "profitMargin": 3.47,
+    "awardWins": 58,
+    "awardNominations": 106,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2024-04-13",
+    "subgenres": [
+      "Adventure",
+      "Drama",
+      "Historical Epic"
+    ]
+  },
+  {
+    "id": "tt0407887",
+    "title": "The Departed",
+    "creationYear": 2006,
+    "runtimeMinutes": 151,
+    "synopsis": "An undercover cop and a mole in the police attempt to identify each other.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "imdbRating": 8.5,
+    "genre": "Crime",
+    "createdAt": "2006-10-06",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 91,
+    "metascore": 85,
+    "budget": 90000000,
+    "revenue": 291465373,
+    "profitMargin": 2.24,
+    "awardWins": 97,
+    "awardNominations": 65,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+    "releaseDate": "2024-05-25",
+    "subgenres": [
+      "Drama",
+      "Thriller",
+      "Police Drama"
+    ]
+  },
+  {
+    "id": "tt0482571",
+    "title": "The Prestige",
+    "creationYear": 2006,
+    "runtimeMinutes": 130,
+    "synopsis": "Two rival magicians obsessively compete for the ultimate illusion.",
+    "cast": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "imdbRating": 8.5,
+    "genre": "Drama",
+    "createdAt": "2006-10-20",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 76,
+    "metascore": 66,
+    "budget": 40000000,
+    "revenue": 109676311,
+    "profitMargin": 1.74,
+    "awardWins": 6,
+    "awardNominations": 34,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2015-04-07",
+    "subgenres": [
+      "Mystery",
+      "Sci-Fi",
+      "Psychological Thriller"
+    ]
+  },
+  {
+    "id": "tt0180093b",
+    "title": "The Pianist",
+    "creationYear": 2002,
+    "runtimeMinutes": 150,
+    "synopsis": "A Polish Jewish pianist struggles to survive the destruction of the Warsaw ghetto.",
+    "cast": [
+      "Adrien Brody",
+      "Thomas Kretschmann",
+      "Frank Finlay"
+    ],
+    "director": [
+      "Roman Polanski"
+    ],
+    "imdbRating": 8.5,
+    "genre": "Biography",
+    "createdAt": "2002-09-25",
+    "language": "English",
+    "country": "France",
+    "colorMode": "Color",
+    "rtScore": 95,
+    "metascore": 85,
+    "budget": 35000000,
+    "revenue": 120072577,
+    "profitMargin": 2.43,
+    "awardWins": 57,
+    "awardNominations": 68,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+    "releaseDate": "2023-01-14",
+    "subgenres": [
+      "Drama",
+      "Music",
+      "Holocaust Drama"
+    ]
+  },
+  {
+    "id": "tt0120735",
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "creationYear": 1998,
+    "runtimeMinutes": 107,
+    "synopsis": "A botched card game triggers a series of misadventures involving gangsters.",
+    "cast": [
+      "Jason Flemyng",
+      "Dexter Fletcher",
+      "Nick Moran"
+    ],
+    "director": [
+      "Guy Ritchie"
+    ],
+    "imdbRating": 8.2,
+    "genre": "Action",
+    "createdAt": "1998-08-28",
+    "language": "English",
+    "country": "UK",
+    "colorMode": "Color",
+    "rtScore": 75,
+    "metascore": 66,
+    "budget": 1350000,
+    "revenue": 28356104,
+    "profitMargin": 20,
+    "awardWins": 8,
+    "awardNominations": 5,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "releaseDate": "2015-09-01",
+    "subgenres": [
+      "Comedy",
+      "Crime",
+      "Crime Comedy"
+    ]
+  },
+  {
+    "id": "tt0209144b",
+    "title": "Dogville",
+    "creationYear": 2003,
+    "runtimeMinutes": 178,
+    "synopsis": "A woman on the run finds refuge in a small town, which exacts a heavy price.",
+    "cast": [
+      "Nicole Kidman",
+      "Paul Bettany",
+      "Lauren Bacall"
+    ],
+    "director": [
+      "Lars von Trier"
+    ],
+    "imdbRating": 8,
+    "genre": "Crime",
+    "createdAt": "2003-05-21",
+    "language": "English",
+    "country": "Denmark",
+    "colorMode": "Color",
+    "rtScore": 70,
+    "metascore": 61,
+    "budget": 10000000,
+    "revenue": 16000000,
+    "profitMargin": 0.6,
+    "awardWins": 15,
+    "awardNominations": 32,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTYwODgzMw@@._V1_.jpg",
+    "releaseDate": "2023-01-15",
+    "subgenres": [
+      "Drama",
+      "Experimental Drama"
+    ]
+  },
+  {
+    "id": "tt0993848",
+    "title": "Inside Out",
+    "creationYear": 2015,
+    "runtimeMinutes": 95,
+    "synopsis": "Personified emotions guide a young girl through a life-changing move.",
+    "cast": [
+      "Amy Poehler",
+      "Phyllis Smith",
+      "Bill Hader"
+    ],
+    "director": [
+      "Pete Docter",
+      "Ronnie del Carmen"
+    ],
+    "imdbRating": 8.1,
+    "genre": "Animation",
+    "createdAt": "2015-06-19",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 98,
+    "metascore": 94,
+    "budget": 175000000,
+    "revenue": 857611174,
+    "profitMargin": 3.9,
+    "awardWins": 98,
+    "awardNominations": 117,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTgwNjU5OTg2NTE@._V1_.jpg",
+    "releaseDate": "2024-09-23",
+    "subgenres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ]
+  },
+  {
+    "id": "tt0780504",
+    "title": "Drive",
+    "creationYear": 2011,
+    "runtimeMinutes": 100,
+    "synopsis": "A getaway driver finds himself in danger after helping his neighbor.",
+    "cast": [
+      "Ryan Gosling",
+      "Carey Mulligan",
+      "Bryan Cranston"
+    ],
+    "director": [
+      "Nicolas Winding Refn"
+    ],
+    "imdbRating": 7.8,
+    "genre": "Action",
+    "createdAt": "2011-09-16",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 93,
+    "metascore": 78,
+    "budget": 15000000,
+    "revenue": 78100000,
+    "profitMargin": 4.2,
+    "awardWins": 32,
+    "awardNominations": 89,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNjU5OTg2NTE@._V1_.jpg",
+    "releaseDate": "2013-11-12",
+    "subgenres": [
+      "Drama",
+      "Neo-noir"
+    ]
+  },
+  {
+    "id": "tt0117951",
+    "title": "Trainspotting",
+    "creationYear": 1996,
+    "runtimeMinutes": 93,
+    "synopsis": "Heroin addicts in Edinburgh struggle to clean up and stay alive.",
+    "cast": [
+      "Ewan McGregor",
+      "Ewen Bremner",
+      "Jonny Lee Miller"
+    ],
+    "director": [
+      "Danny Boyle"
+    ],
+    "imdbRating": 8.1,
+    "genre": "Drama",
+    "createdAt": "1996-07-19",
+    "language": "English",
+    "country": "UK",
+    "colorMode": "Color",
+    "rtScore": 90,
+    "metascore": 83,
+    "budget": 1500000,
+    "revenue": 16500000,
+    "profitMargin": 10,
+    "awardWins": 23,
+    "awardNominations": 26,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2023-08-17",
+    "subgenres": [
+      "Addiction"
+    ]
+  },
+  {
+    "id": "tt0139654",
+    "title": "Rush Hour",
+    "creationYear": 1998,
+    "runtimeMinutes": 98,
+    "synopsis": "A Hong Kong detective teams with a loudmouthed L.A. cop to rescue a diplomat's daughter.",
+    "cast": [
+      "Jackie Chan",
+      "Chris Tucker",
+      "Ken Leung"
+    ],
+    "director": [
+      "Brett Ratner"
+    ],
+    "imdbRating": 7,
+    "genre": "Action",
+    "createdAt": "1998-09-18",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 60,
+    "metascore": 60,
+    "budget": 33000000,
+    "revenue": 244386864,
+    "profitMargin": 6.41,
+    "awardWins": 5,
+    "awardNominations": 9,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYWM2NDZmYmYtNzlmZC00M2MyLWJmOGUtMjhiYmQ2OGU1YTE1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "releaseDate": "2016-09-09",
+    "subgenres": [
+      "Comedy",
+      "Crime",
+      "Buddy Cop"
+    ]
+  },
+  {
+    "id": "tt0120737b",
+    "title": "Mad Max: Fury Road",
+    "creationYear": 2015,
+    "runtimeMinutes": 120,
+    "synopsis": "In a post-apocalyptic wasteland, Max teams up with Furiosa to flee a tyrant.",
+    "cast": [
+      "Tom Hardy",
+      "Charlize Theron",
+      "Nicholas Hoult"
+    ],
+    "director": [
+      "George Miller"
+    ],
+    "imdbRating": 8.1,
+    "genre": "Action",
+    "createdAt": "2015-05-15",
+    "language": "English",
+    "country": "Australia",
+    "colorMode": "Color",
+    "rtScore": 97,
+    "metascore": 90,
+    "budget": 150000000,
+    "revenue": 375836354,
+    "profitMargin": 1.51,
+    "awardWins": 246,
+    "awardNominations": 230,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "releaseDate": "2024-03-12",
+    "subgenres": [
+      "Adventure",
+      "Sci-Fi",
+      "Post-Apocalyptic"
+    ]
+  },
+  {
+    "id": "tt0109506",
+    "title": "Batman: Mask of the Phantasm",
+    "creationYear": 1993,
+    "runtimeMinutes": 76,
+    "synopsis": "Batman faces a mysterious vigilante who murders mob bosses.",
+    "cast": [
+      "Kevin Conroy",
+      "Dana Delany",
+      "Hart Bochner"
+    ],
+    "director": [
+      "Kevin Altieri",
+      "Boyd Kirkland"
+    ],
+    "imdbRating": 7.8,
+    "genre": "Animation",
+    "createdAt": "1993-12-25",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 84,
+    "metascore": 69,
+    "budget": 6000000,
+    "revenue": 5600000,
+    "profitMargin": -0.07,
+    "awardWins": 0,
+    "awardNominations": 1,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTRiMWM3MGItNjAxZC00M2E3LThhODgtM2QwOGNmZGU4OWZhXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+    "releaseDate": "2016-04-03",
+    "subgenres": [
+      "Action",
+      "Crime",
+      "Superhero"
+    ]
+  },
+  {
+    "id": "tt0107688",
+    "title": "Philadelphia",
+    "creationYear": 1993,
+    "runtimeMinutes": 125,
+    "synopsis": "A lawyer with AIDS sues his firm for discrimination.",
+    "cast": [
+      "Tom Hanks",
+      "Denzel Washington",
+      "Roberta Maxwell"
+    ],
+    "director": [
+      "Jonathan Demme"
+    ],
+    "imdbRating": 7.7,
+    "genre": "Drama",
+    "createdAt": "1994-01-14",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 78,
+    "metascore": 66,
+    "budget": 26000000,
+    "revenue": 206678440,
+    "profitMargin": 6.95,
+    "awardWins": 28,
+    "awardNominations": 31,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzQ5ODUzNDEtMzg4MC00Y2EyLWEyMDctYzU4ZjNmZmRmNTdmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "releaseDate": "2024-01-07",
+    "subgenres": [
+      "Legal Drama"
+    ]
+  },
+  {
+    "id": "tt0088247",
+    "title": "The Terminator",
+    "creationYear": 1984,
+    "runtimeMinutes": 107,
+    "synopsis": "A cyborg assassin is sent back in time to kill Sarah Connor.",
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn"
+    ],
+    "director": [
+      "James Cameron"
+    ],
+    "imdbRating": 8.1,
+    "genre": "Action",
+    "createdAt": "1984-10-26",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 100,
+    "metascore": 84,
+    "budget": 6400000,
+    "revenue": 78371200,
+    "profitMargin": 11.25,
+    "awardWins": 6,
+    "awardNominations": 7,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "releaseDate": "2012-07-26",
+    "subgenres": [
+      "Sci-Fi",
+      "Time Travel"
+    ]
+  },
+  {
+    "id": "tt0113277",
+    "title": "Heat",
+    "creationYear": 1995,
+    "runtimeMinutes": 170,
+    "synopsis": "A group of professional bank robbers start to feel the heat from police.",
+    "cast": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Val Kilmer"
+    ],
+    "director": [
+      "Michael Mann"
+    ],
+    "imdbRating": 8.3,
+    "genre": "Action",
+    "createdAt": "1995-12-15",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 87,
+    "metascore": 76,
+    "budget": 60000000,
+    "revenue": 187436818,
+    "profitMargin": 2.12,
+    "awardWins": 6,
+    "awardNominations": 11,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+    "releaseDate": "2013-12-26",
+    "subgenres": [
+      "Crime",
+      "Drama",
+      "Heist"
+    ]
+  },
+  {
+    "id": "tt0443453",
+    "title": "Borat",
+    "creationYear": 2006,
+    "runtimeMinutes": 84,
+    "synopsis": "Kazakh journalist Borat travels to America to make a documentary.",
+    "cast": [
+      "Sacha Baron Cohen",
+      "Ken Davitian",
+      "Luenell"
+    ],
+    "director": [
+      "Larry Charles"
+    ],
+    "imdbRating": 7.4,
+    "genre": "Comedy",
+    "createdAt": "2006-11-03",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 91,
+    "metascore": 89,
+    "budget": 18000000,
+    "revenue": 262552352,
+    "profitMargin": 13.59,
+    "awardWins": 24,
+    "awardNominations": 39,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTk0MTQ3NDQ4Ml5BMl5BanBnXkFtZTcwOTQ3OTQzMw@@._V1_.jpg",
+    "releaseDate": "2022-06-28",
+    "subgenres": [
+      "Mockumentary"
+    ]
+  },
+  {
+    "id": "tt0126029",
+    "title": "Shrek",
+    "creationYear": 2001,
+    "runtimeMinutes": 90,
+    "synopsis": "An ogre rescues a princess to reclaim his swamp.",
+    "cast": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz"
+    ],
+    "director": [
+      "Andrew Adamson",
+      "Vicky Jenson"
+    ],
+    "imdbRating": 7.9,
+    "genre": "Animation",
+    "createdAt": "2001-05-18",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 88,
+    "metascore": 84,
+    "budget": 60000000,
+    "revenue": 487853320,
+    "profitMargin": 7.13,
+    "awardWins": 39,
+    "awardNominations": 60,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "releaseDate": "2020-12-01",
+    "subgenres": [
+      "Adventure",
+      "Comedy",
+      "Family Comedy"
+    ]
+  },
+  {
+    "id": "tt0974015",
+    "title": "Justice League",
+    "creationYear": 2017,
+    "runtimeMinutes": 120,
+    "synopsis": "Batman and Wonder Woman recruit a team to defend the world from an alien threat.",
+    "cast": [
+      "Ben Affleck",
+      "Gal Gadot",
+      "Jason Momoa"
+    ],
+    "director": [
+      "Zack Snyder"
+    ],
+    "imdbRating": 6.1,
+    "genre": "Action",
+    "createdAt": "2017-11-17",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 39,
+    "metascore": 45,
+    "budget": 300000000,
+    "revenue": 657924295,
+    "profitMargin": 2.19,
+    "awardWins": 5,
+    "awardNominations": 18,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2NjYwNl5BMl5BanBnXkFtZTgwNjU5OTg2NTE@._V1_.jpg",
+    "releaseDate": "2016-12-03",
+    "subgenres": [
+      "Adventure",
+      "Fantasy",
+      "Superhero"
+    ]
+  },
+  {
+    "id": "tt0081505",
+    "title": "The Shining",
+    "creationYear": 1980,
+    "runtimeMinutes": 146,
+    "synopsis": "A family heads to an isolated hotel where evil forces influence the father.",
+    "cast": [
+      "Jack Nicholson",
+      "Shelley Duvall",
+      "Danny Lloyd"
+    ],
+    "director": [
+      "Stanley Kubrick"
+    ],
+    "imdbRating": 8.4,
+    "genre": "Horror",
+    "createdAt": "1980-05-23",
+    "language": "English",
+    "country": "UK",
+    "colorMode": "Color",
+    "rtScore": 84,
+    "metascore": 66,
+    "budget": 19000000,
+    "revenue": 46987336,
+    "profitMargin": 2.47,
+    "awardWins": 2,
+    "awardNominations": 7,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2024-03-21",
+    "subgenres": [
+      "Horror",
+      "Psychological Horror"
+    ]
+  },
+  {
+    "id": "tt0170016",
+    "title": "The Iron Giant",
+    "creationYear": 1999,
+    "runtimeMinutes": 86,
+    "synopsis": "A boy befriends a gentle giant robot from outer space.",
+    "cast": [
+      "Vin Diesel",
+      "Eli Marienthal",
+      "Jennifer Aniston"
+    ],
+    "director": [
+      "Brad Bird"
+    ],
+    "imdbRating": 8,
+    "genre": "Animation",
+    "createdAt": "1999-08-06",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 96,
+    "metascore": 85,
+    "budget": 70000000,
+    "revenue": 31900000,
+    "profitMargin": 0.46,
+    "awardWins": 15,
+    "awardNominations": 24,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2017-01-21",
+    "subgenres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
+  },
+  {
+    "id": "tt4160706",
+    "title": "Spectre",
+    "creationYear": 2015,
+    "runtimeMinutes": 148,
+    "synopsis": "James Bond uncovers a sinister organization while confronting ghosts from his past.",
+    "cast": [
+      "Daniel Craig",
+      "Christoph Waltz",
+      "Léa Seydoux"
+    ],
+    "director": [
+      "Sam Mendes"
+    ],
+    "imdbRating": 6.8,
+    "genre": "Action",
+    "createdAt": "2015-10-26",
+    "language": "English",
+    "country": "UK",
+    "colorMode": "Color",
+    "rtScore": 63,
+    "metascore": 60,
+    "budget": 245000000,
+    "revenue": 880674609,
+    "profitMargin": 3.59,
+    "awardWins": 9,
+    "awardNominations": 32,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+    "releaseDate": "2014-11-10",
+    "subgenres": [
+      "Adventure",
+      "Thriller",
+      "Spy"
+    ]
+  },
+  {
+    "id": "tt0304141",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "creationYear": 2004,
+    "runtimeMinutes": 142,
+    "synopsis": "Harry learns a dangerous criminal has escaped Azkaban prison.",
+    "cast": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "director": [
+      "Alfonso Cuarón"
+    ],
+    "imdbRating": 7.9,
+    "genre": "Adventure",
+    "createdAt": "2004-06-04",
+    "language": "English",
+    "country": "UK",
+    "colorMode": "Color",
+    "rtScore": 90,
+    "metascore": 82,
+    "budget": 130000000,
+    "revenue": 796688549,
+    "profitMargin": 6.12,
+    "awardWins": 17,
+    "awardNominations": 56,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg",
+    "releaseDate": "2019-04-21",
+    "subgenres": [
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "tt0120735b",
+    "title": "Spider-Man",
+    "creationYear": 2002,
+    "runtimeMinutes": 121,
+    "synopsis": "After being bitten by a spider, Peter Parker becomes Spider-Man.",
+    "cast": [
+      "Tobey Maguire",
+      "Kirsten Dunst",
+      "Willem Dafoe"
+    ],
+    "director": [
+      "Sam Raimi"
+    ],
+    "imdbRating": 7.4,
+    "genre": "Action",
+    "createdAt": "2002-05-03",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 81,
+    "metascore": 77,
+    "budget": 3000000,
+    "revenue": 15000000,
+    "profitMargin": 4,
+    "awardWins": 33,
+    "awardNominations": 17,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_.jpg",
+    "releaseDate": "2019-11-03",
+    "subgenres": [
+      "Adventure",
+      "Sci-Fi",
+      "Superhero"
+    ]
+  },
+  {
+    "id": "tt0118736",
+    "title": "Sex and the City",
+    "creationYear": 2008,
+    "runtimeMinutes": 145,
+    "synopsis": "A New York writer and her friends navigate loves and careers.",
+    "cast": [
+      "Sarah Jessica Parker",
+      "Kim Cattrall",
+      "Cynthia Nixon"
+    ],
+    "director": [
+      "Michael Patrick King"
+    ],
+    "imdbRating": 5.7,
+    "genre": "Comedy",
+    "createdAt": "2008-05-30",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 49,
+    "metascore": 53,
+    "budget": 65000000,
+    "revenue": 418774545,
+    "profitMargin": 6.44,
+    "awardWins": 4,
+    "awardNominations": 18,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2015-10-01",
+    "subgenres": [
+      "Drama",
+      "Romance",
+      "Romantic Comedy"
+    ]
+  },
+  {
+    "id": "tt0120737c",
+    "title": "The Incredibles",
+    "creationYear": 2004,
+    "runtimeMinutes": 115,
+    "synopsis": "A family of undercover superheroes tries to live a quiet life.",
+    "cast": [
+      "Craig T. Nelson",
+      "Holly Hunter",
+      "Samuel L. Jackson"
+    ],
+    "director": [
+      "Brad Bird"
+    ],
+    "imdbRating": 8,
+    "genre": "Animation",
+    "createdAt": "2004-11-05",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 97,
+    "metascore": 90,
+    "budget": 92000000,
+    "revenue": 633019734,
+    "profitMargin": 6.88,
+    "awardWins": 67,
+    "awardNominations": 54,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2019-05-03",
+    "subgenres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ]
+  },
+  {
+    "id": "tt0241527",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "creationYear": 2001,
+    "runtimeMinutes": 152,
+    "synopsis": "An orphan learns he is a wizard and attends Hogwarts School.",
+    "cast": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint"
+    ],
+    "director": [
+      "Chris Columbus"
+    ],
+    "imdbRating": 7.6,
+    "genre": "Adventure",
+    "createdAt": "2001-11-16",
+    "language": "English",
+    "country": "UK",
+    "colorMode": "Color",
+    "rtScore": 81,
+    "metascore": 64,
+    "budget": 125000000,
+    "revenue": 974755371,
+    "profitMargin": 7.8,
+    "awardWins": 17,
+    "awardNominations": 65,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+    "releaseDate": "2019-06-27",
+    "subgenres": [
+      "Family",
+      "Fantasy",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "tt0398808",
+    "title": "The Fountain",
+    "creationYear": 2006,
+    "runtimeMinutes": 96,
+    "synopsis": "A man travels through time to save the woman he loves.",
+    "cast": [
+      "Hugh Jackman",
+      "Rachel Weisz",
+      "Sean Patrick Thomas"
+    ],
+    "director": [
+      "Darren Aronofsky"
+    ],
+    "imdbRating": 7.2,
+    "genre": "Drama",
+    "createdAt": "2006-11-22",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 52,
+    "metascore": 51,
+    "budget": 35000000,
+    "revenue": 16600000,
+    "profitMargin": 0.47,
+    "awardWins": 2,
+    "awardNominations": 13,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2024-06-16",
+    "subgenres": [
+      "Romance",
+      "Sci-Fi",
+      "Romantic Fantasy"
+    ]
+  },
+  {
+    "id": "tt0264464",
+    "title": "Catch Me If You Can",
+    "creationYear": 2002,
+    "runtimeMinutes": 141,
+    "synopsis": "A young con artist forges millions before his 19th birthday.",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "imdbRating": 8.1,
+    "genre": "Biography",
+    "createdAt": "2002-12-25",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 96,
+    "metascore": 75,
+    "budget": 52000000,
+    "revenue": 352114312,
+    "profitMargin": 6.77,
+    "awardWins": 16,
+    "awardNominations": 38,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2015-05-12",
+    "subgenres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "id": "tt3315342",
+    "title": "Logan Lucky",
+    "creationYear": 2017,
+    "runtimeMinutes": 118,
+    "synopsis": "Two brothers attempt to pull off a heist during a NASCAR race.",
+    "cast": [
+      "Channing Tatum",
+      "Adam Driver",
+      "Daniel Craig"
+    ],
+    "director": [
+      "Steven Soderbergh"
+    ],
+    "imdbRating": 7,
+    "genre": "Action",
+    "createdAt": "2017-08-18",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 92,
+    "metascore": 78,
+    "budget": 29000000,
+    "revenue": 48453580,
+    "profitMargin": 1.67,
+    "awardWins": 2,
+    "awardNominations": 13,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2023-01-12",
+    "subgenres": [
+      "Comedy",
+      "Crime",
+      "Heist"
+    ]
+  },
+  {
+    "id": "tt2802144",
+    "title": "Kingsman: The Secret Service",
+    "creationYear": 2014,
+    "runtimeMinutes": 129,
+    "synopsis": "A street kid is recruited into a secret spy organization.",
+    "cast": [
+      "Taron Egerton",
+      "Colin Firth",
+      "Samuel L. Jackson"
+    ],
+    "director": [
+      "Matthew Vaughn"
+    ],
+    "imdbRating": 7.7,
+    "genre": "Action",
+    "createdAt": "2014-12-13",
+    "language": "English",
+    "country": "UK",
+    "colorMode": "Color",
+    "rtScore": 75,
+    "metascore": 60,
+    "budget": 81000000,
+    "revenue": 414351546,
+    "profitMargin": 5.12,
+    "awardWins": 11,
+    "awardNominations": 36,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2020-09-15",
+    "subgenres": [
+      "Adventure",
+      "Comedy",
+      "Spy"
+    ]
+  },
+  {
+    "id": "tt2820852",
+    "title": "Fury",
+    "creationYear": 2014,
+    "runtimeMinutes": 134,
+    "synopsis": "A tank crew fights behind enemy lines during WWII.",
+    "cast": [
+      "Brad Pitt",
+      "Shia LaBeouf",
+      "Logan Lerman"
+    ],
+    "director": [
+      "David Ayer"
+    ],
+    "imdbRating": 7.6,
+    "genre": "Action",
+    "createdAt": "2014-10-17",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 76,
+    "metascore": 64,
+    "budget": 68000000,
+    "revenue": 211817906,
+    "profitMargin": 3.12,
+    "awardWins": 3,
+    "awardNominations": 17,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2016-01-10",
+    "subgenres": [
+      "Drama",
+      "War",
+      "Historical Drama"
+    ]
+  },
+  {
+    "id": "tt0405094",
+    "title": "The Lives of Others",
+    "creationYear": 2006,
+    "runtimeMinutes": 137,
+    "synopsis": "In 1984 East Berlin, a Stasi agent becomes involved in the lives of the people he monitors.",
+    "cast": [
+      "Ulrich Mühe",
+      "Martina Gedeck",
+      "Sebastian Koch"
+    ],
+    "director": [
+      "Florian Henckel von Donnersmarck"
+    ],
+    "imdbRating": 8.4,
+    "genre": "Drama",
+    "createdAt": "2006-03-23",
+    "language": "German",
+    "country": "Germany",
+    "colorMode": "Color",
+    "rtScore": 93,
+    "metascore": 89,
+    "budget": 2000000,
+    "revenue": 77100000,
+    "profitMargin": 38.55,
+    "awardWins": 76,
+    "awardNominations": 38,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2020-06-02",
+    "subgenres": [
+      "Thriller",
+      "Political Thriller"
+    ]
+  },
+  {
+    "id": "tt0095016",
+    "title": "Die Hard",
+    "creationYear": 1988,
+    "runtimeMinutes": 132,
+    "synopsis": "An NYPD officer tries to save his wife and others taken hostage by terrorists.",
+    "cast": [
+      "Bruce Willis",
+      "Alan Rickman",
+      "Bonnie Bedelia"
+    ],
+    "director": [
+      "John McTiernan"
+    ],
+    "imdbRating": 8.2,
+    "genre": "Action",
+    "createdAt": "1988-07-15",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 94,
+    "metascore": 72,
+    "budget": 28000000,
+    "revenue": 141603197,
+    "profitMargin": 5.06,
+    "awardWins": 8,
+    "awardNominations": 4,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2014-05-28",
+    "subgenres": [
+      "Thriller",
+      "Action Thriller"
+    ]
+  },
+  {
+    "id": "tt0266697",
+    "title": "Finding Nemo",
+    "creationYear": 2003,
+    "runtimeMinutes": 100,
+    "synopsis": "A timid clownfish sets out on a journey to bring his son home.",
+    "cast": [
+      "Albert Brooks",
+      "Ellen DeGeneres",
+      "Alexander Gould"
+    ],
+    "director": [
+      "Andrew Stanton"
+    ],
+    "imdbRating": 8.2,
+    "genre": "Animation",
+    "createdAt": "2003-05-30",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 99,
+    "metascore": 90,
+    "budget": 94000000,
+    "revenue": 940335536,
+    "profitMargin": 10,
+    "awardWins": 48,
+    "awardNominations": 63,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYwNjQwNjYwNl5BMl5BanBnXkFtZTcwNTM0MzY2._V1_.jpg",
+    "releaseDate": "2014-08-26",
+    "subgenres": [
+      "Adventure",
+      "Comedy",
+      "Family"
+    ]
+  },
+  {
+    "id": "tt0017136",
+    "title": "Metropolis",
+    "creationYear": 1927,
+    "runtimeMinutes": 153,
+    "synopsis": "In a futuristic city, the son of the city's mastermind falls in love with a working-class prophet.",
+    "cast": [
+      "Alfred Abel",
+      "Gustav Fröhlich",
+      "Rudolf Klein-Rogge"
+    ],
+    "director": [
+      "Fritz Lang"
+    ],
+    "imdbRating": 8.3,
+    "genre": "Drama",
+    "createdAt": "1927-01-10",
+    "language": "German",
+    "country": "Germany",
+    "colorMode": "BW",
+    "rtScore": 98,
+    "metascore": 98,
+    "budget": 5300000,
+    "revenue": 75000,
+    "profitMargin": -0.99,
+    "awardWins": 12,
+    "awardNominations": 8,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTYxMzYzNjc5NV5BMl5BanBnXkFtZTgwNTI0NTU2MTE@._V1_.jpg",
+    "releaseDate": "2012-07-14",
+    "subgenres": [
+      "Sci-Fi",
+      "Silent Film"
+    ]
+  },
+  {
+    "id": "tt0015864",
+    "title": "The Gold Rush",
+    "creationYear": 1925,
+    "runtimeMinutes": 95,
+    "synopsis": "A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune.",
+    "cast": [
+      "Charles Chaplin",
+      "Mack Swain",
+      "Tom Murray"
+    ],
+    "director": [
+      "Charles Chaplin"
+    ],
+    "imdbRating": 8.2,
+    "genre": "Adventure",
+    "createdAt": "1925-06-26",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "BW",
+    "rtScore": 100,
+    "metascore": 96,
+    "budget": 923886,
+    "revenue": 4250000,
+    "profitMargin": 3.6,
+    "awardWins": 5,
+    "awardNominations": 2,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzQ0NzYyNjQ2NV5BMl5BanBnXkFtZTgwNzAyODI4MjE@._V1_.jpg",
+    "releaseDate": "2019-07-12",
+    "subgenres": [
+      "Comedy",
+      "Drama",
+      "Silent Comedy"
+    ]
+  },
+  {
+    "id": "tt0033467",
+    "title": "Citizen Kane",
+    "creationYear": 1941,
+    "runtimeMinutes": 119,
+    "synopsis": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to discover the meaning of his final word.",
+    "cast": [
+      "Orson Welles",
+      "Joseph Cotten",
+      "Dorothy Comingore"
+    ],
+    "director": [
+      "Orson Welles"
+    ],
+    "imdbRating": 8.3,
+    "genre": "Drama",
+    "createdAt": "1941-05-01",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "BW",
+    "rtScore": 100,
+    "metascore": 100,
+    "budget": 839727,
+    "revenue": 1594270,
+    "profitMargin": 0.9,
+    "awardWins": 11,
+    "awardNominations": 9,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+    "releaseDate": "2016-02-17",
+    "subgenres": [
+      "Mystery"
+    ]
+  },
+  {
+    "id": "tt0053125",
+    "title": "Some Like It Hot",
+    "creationYear": 1959,
+    "runtimeMinutes": 121,
+    "synopsis": "After witnessing a mafia hit, two musicians disguise themselves as women and join an all-female band.",
+    "cast": [
+      "Marilyn Monroe",
+      "Tony Curtis",
+      "Jack Lemmon"
+    ],
+    "director": [
+      "Billy Wilder"
+    ],
+    "imdbRating": 8.2,
+    "genre": "Comedy",
+    "createdAt": "1959-03-29",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "BW",
+    "rtScore": 96,
+    "metascore": 98,
+    "budget": 2883848,
+    "revenue": 25000000,
+    "profitMargin": 7.67,
+    "awardWins": 6,
+    "awardNominations": 6,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzAzOGJhZDMtOWM1Zi00NzM0LWFjYjktYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+    "releaseDate": "2024-04-27",
+    "subgenres": [
+      "Music",
+      "Romance",
+      "Screwball Comedy"
+    ]
+  },
+  {
+    "id": "tt0056172",
+    "title": "The Manchurian Candidate",
+    "creationYear": 1962,
+    "runtimeMinutes": 126,
+    "synopsis": "A former prisoner of war is brainwashed as an unwitting assassin for an international Communist conspiracy.",
+    "cast": [
+      "Frank Sinatra",
+      "Laurence Harvey",
+      "Angela Lansbury"
+    ],
+    "director": [
+      "John Frankenheimer"
+    ],
+    "imdbRating": 7.9,
+    "genre": "Drama",
+    "createdAt": "1962-10-24",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "BW",
+    "rtScore": 98,
+    "metascore": 94,
+    "budget": 2200000,
+    "revenue": 7700000,
+    "profitMargin": 2.5,
+    "awardWins": 4,
+    "awardNominations": 5,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzQ0NzYyNjQ2NV5BMl5BanBnXkFtZTgwNzAyODI4MjE@._V1_.jpg",
+    "releaseDate": "2013-03-15",
+    "subgenres": [
+      "Thriller",
+      "Political Thriller"
+    ]
+  },
+  {
+    "id": "tt15398776",
+    "title": "Oppenheimer",
+    "creationYear": 2023,
+    "runtimeMinutes": 180,
+    "synopsis": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Robert Downey Jr."
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "imdbRating": 8.4,
+    "genre": "Biography",
+    "createdAt": "2023-07-21",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 93,
+    "metascore": 88,
+    "budget": 100000000,
+    "revenue": 952000000,
+    "profitMargin": 8.52,
+    "awardWins": 189,
+    "awardNominations": 298,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+    "releaseDate": "2019-04-07",
+    "subgenres": [
+      "Drama",
+      "History",
+      "Historical Drama"
+    ]
+  },
+  {
+    "id": "tt6710474",
+    "title": "Everything Everywhere All at Once",
+    "creationYear": 2022,
+    "runtimeMinutes": 139,
+    "synopsis": "A Chinese-American laundromat owner is swept up in an insane adventure where she alone can save existence.",
+    "cast": [
+      "Michelle Yeoh",
+      "Stephanie Hsu",
+      "Ke Huy Quan"
+    ],
+    "director": [
+      "Daniel Kwan",
+      "Daniel Scheinert"
+    ],
+    "imdbRating": 7.8,
+    "genre": "Action",
+    "createdAt": "2022-03-25",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 95,
+    "metascore": 81,
+    "budget": 14300000,
+    "revenue": 143400000,
+    "profitMargin": 9.03,
+    "awardWins": 267,
+    "awardNominations": 397,
+    "franchise": false,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_.jpg",
+    "releaseDate": "2018-02-24",
+    "subgenres": [
+      "Adventure",
+      "Comedy",
+      "Multiverse"
+    ]
+  },
+  {
+    "id": "tt10872600",
+    "title": "Spider-Man: No Way Home",
+    "creationYear": 2021,
+    "runtimeMinutes": 148,
+    "synopsis": "Spider-Man seeks help from Doctor Strange when his identity is revealed, but a spell goes wrong.",
+    "cast": [
+      "Tom Holland",
+      "Zendaya",
+      "Benedict Cumberbatch"
+    ],
+    "director": [
+      "Jon Watts"
+    ],
+    "imdbRating": 8.2,
+    "genre": "Action",
+    "createdAt": "2021-12-17",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 90,
+    "metascore": 71,
+    "budget": 200000000,
+    "revenue": 1921847111,
+    "profitMargin": 8.61,
+    "awardWins": 54,
+    "awardNominations": 78,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+    "releaseDate": "2021-05-15",
+    "subgenres": [
+      "Adventure",
+      "Fantasy",
+      "Superhero"
+    ]
+  },
+  {
+    "id": "tt9362722",
+    "title": "Spider-Man: Across the Spider-Verse",
+    "creationYear": 2023,
+    "runtimeMinutes": 140,
+    "synopsis": "Miles Morales catapults across the multiverse, where he encounters a team of Spider-People.",
+    "cast": [
+      "Shameik Moore",
+      "Hailee Steinfeld",
+      "Brian Tyree Henry"
+    ],
+    "director": [
+      "Joaquim Dos Santos",
+      "Kemp Powers",
+      "Justin K. Thompson"
+    ],
+    "imdbRating": 8.7,
+    "genre": "Animation",
+    "createdAt": "2023-06-02",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 96,
+    "metascore": 86,
+    "budget": 100000000,
+    "revenue": 690898764,
+    "profitMargin": 5.91,
+    "awardWins": 89,
+    "awardNominations": 156,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_.jpg",
+    "releaseDate": "2023-01-03",
+    "subgenres": [
+      "Action",
+      "Adventure",
+      "Superhero"
+    ]
+  },
+  {
+    "id": "tt13238346",
+    "title": "Dune: Part Two",
+    "creationYear": 2024,
+    "runtimeMinutes": 166,
+    "synopsis": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson"
+    ],
+    "director": [
+      "Denis Villeneuve"
+    ],
+    "imdbRating": 8.5,
+    "genre": "Action",
+    "createdAt": "2024-03-01",
+    "language": "English",
+    "country": "USA",
+    "colorMode": "Color",
+    "rtScore": 92,
+    "metascore": 79,
+    "budget": 190000000,
+    "revenue": 714400000,
+    "profitMargin": 2.76,
+    "awardWins": 45,
+    "awardNominations": 89,
+    "franchise": true,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BN2QyZGU4ZDctOWMzMy00NTc5LThlOGQtODhmNDI1NmY5YzAwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "releaseDate": "2023-03-18",
+    "subgenres": [
+      "Adventure",
+      "Drama",
+      "Space Opera"
+    ]
+  }
+]

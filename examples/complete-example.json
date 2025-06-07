@@ -1,0 +1,25 @@
+{
+  "filter": {
+    "match": [
+      "<field> <operator> {<value>}"
+    ],
+    "multiMatch": {
+      "fields": ["<field1>", "<field2>"],
+      "query": "<some text>",
+      "operator": "OR",
+      "fuzziness": 1
+    }
+  },
+  "sort": {
+    "field": "<field>",
+    "direction": "ASC"
+  },
+  "page": {
+    "offset": 0,
+    "size": 10
+  },
+  "projection": {
+    "<field1>": "y",
+    "<field2>": "n"
+  }
+} 

@@ -1,0 +1,7 @@
+{
+  "projection": {
+    "<field1>": "y",
+    "<field2>": "n",
+    "<field3>": "y"
+  }
+} 

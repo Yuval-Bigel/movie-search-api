@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Search API</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎬 Movie Search API</h1>
+            <p>Paste your query JSON and see the results</p>
+        </header>
+
+        <div class="search-section">
+            <div class="query-input">
+                <h2>Query Input</h2>
+                <textarea id="queryInput" placeholder='Paste your JSON query here, for example:
+{
+  "filter": {
+    "match": ["genre EQUAL {Action}"]
+  }
+}'></textarea>
+                <div class="action-buttons">
+                    <button onclick="executeQuery()" class="search-btn">🔍 Execute Query</button>
+                    <button onclick="clearQuery()" class="clear-btn">🗑️ Clear</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Section -->
+        <div class="results-section">
+            <div class="results-header">
+                <h2>Search Results</h2>
+                <div id="resultsCount"></div>
+            </div>
+            <div id="results"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

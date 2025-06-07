@@ -1,0 +1,10 @@
+{
+  "filter": {
+    "multiMatch": {
+      "fields": ["<field1>", "<field2>"],
+      "query": "<search text>",
+      "operator": "OR",
+      "fuzziness": 1
+    }
+  }
+} 

@@ -1,0 +1,6 @@
+{
+  "sort": {
+    "field": "<field name>",
+    "direction": "DESC"
+  }
+} 

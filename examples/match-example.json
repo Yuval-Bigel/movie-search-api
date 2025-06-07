@@ -1,0 +1,23 @@
+{
+  "filter": {
+    "match": [
+      "<field name> EQUAL {<value>}",
+      "<field name> GTE {<value>}",
+      "<field name> IN [<value>, <value>]",
+      {
+        "group": [
+          "<field name> EQUAL {<value>}",
+          "<field name> EQUAL {<value>}"
+        ],
+        "operator": "OR"
+      },
+      {
+        "group": [
+          "<field name> GTE {<value>}",
+          "<field name> LTE {<value>}"
+        ],
+        "operator": "AND"
+      }
+    ]
+  }
+} 
