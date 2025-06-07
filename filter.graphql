@@ -140,7 +140,7 @@ input MovieProjection {
   title:             String 
   synopsis:          String 
   genre:             String 
-  subgenre:          String 
+  subgenres:         String 
   director:          String 
   cast:              String 
   createdAt:         String     
@@ -167,7 +167,7 @@ input MovieProjection {
 # Standard Fields:
 # - id: Movie ID
 # - genre: GenreCode (1-21)
-# - subgenre: String
+# - subgenres: [String]
 # - release_year: Int 
 # - createdAt: Date 
 # - releaseDate: Date 
