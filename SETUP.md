@@ -1,5 +1,10 @@
 # Movie Search API - Setup Instructions
 
+## Prerequisites
+
+- Node.js (version 14 or higher)
+- npm (comes with Node.js)
+
 ## Quick Start
 
 1. **Install dependencies:**
@@ -25,4 +30,3 @@
   - `script.js` - Frontend JavaScript
   - `styles.css` - Styling
 - `filter.graphql` - GraphQL schema for filters
-
