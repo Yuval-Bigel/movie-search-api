@@ -1,6 +1,6 @@
 # Movie Search API - Setup Instructions
 
-## Prerequisites
+## Prerequisites (for running locally - ignore if running online)
 
 - Node.js (version 14 or higher)
 - npm (comes with Node.js)
